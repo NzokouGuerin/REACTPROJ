@@ -1,0 +1,34 @@
+#body{
+    background-color: blueviolet;
+    color: aquamarine;
+    padding: 30px;
+    position: absolute;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    left: 20%;
+    top: 20%;
+    border-radius: 5px;
+}
+
+input{
+    margin: 7px;
+    padding: 5px;
+    border-radius: 6px;
+    font-size: 17px;
+    color: chartreuse;
+}
+
+label{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+input[type="submit"]{
+    width: 300px;
+    background-color: red;
+    padding: 4px;
+    align-self: center;
+    color: white;
+    font-weight: 30px;
+}
